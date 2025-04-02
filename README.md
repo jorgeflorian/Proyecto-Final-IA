@@ -1,7 +1,7 @@
 # Proyecto-de-Final-IA
 
-## Nombre
+## Nombre Jorge Cesar Augusto Florian Silvestre
 
-## Matrícula
+## Matrícula 17-wisn-2-009
 
-## Proyecto
+## Proyecto Generador de Comics 
